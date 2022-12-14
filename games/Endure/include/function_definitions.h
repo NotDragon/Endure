@@ -1,0 +1,9 @@
+//
+// Created by mixal on 12/5/2022.
+//
+
+#ifndef ENDURE_FUNCTION_DEFINITIONS_H
+#define ENDURE_FUNCTION_DEFINITIONS_H
+
+
+#endif //ENDURE_FUNCTION_DEFINITIONS_H
